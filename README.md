@@ -74,6 +74,15 @@
         "price": "53.74",
         "rating": "One",
         "stock": "In stock"
-    },
-    ...
+    }
 ]
+```
+**Пример содержимого books.csv:**
+
+```csv
+
+title,price,rating,stock
+A Light in the Attic,51.77,Three,In stock
+Tipping the Velvet,53.74,One,In stock
+Soumission,50.10,One,In stock
+```
